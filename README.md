@@ -7,10 +7,6 @@
 </p>
 
 <details>
-  <summary><b>:book: 2021 </b></summary>
+  <summary><b>:book: 2023 </b></summary>
   This has been a challenging year for everyone, including myself. Despite the difficulties, I remain hopeful and enthusiastic, and continue working on amazing projects with incredible people! 😄 
-</details>
-<details>
-  <summary><b>:book: 2022 </b></summary>
-  Motto: Be cautious under certainty, and stay optimistic amidst uncertainty!
 </details>
