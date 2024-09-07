@@ -1,6 +1,8 @@
 <p align="center">
     :wave: Hello World! My name's Zichen Liang.
     <br> </br>
+    I am currently a second year Master student in the College of Computer Science, Nankai University.
+    <br> </br>
     <a href="https://jack-chen-2019.github.io/liangzc">My Webpage</a>
 </p>
 
